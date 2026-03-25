@@ -89,7 +89,7 @@ const alix = {
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hornet3113/hornet3113/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hornet3113/hornet3113/output/pacman-contribution-graph.svg" alt="Pacman animation"/>
 </div>
 
 <br/>
