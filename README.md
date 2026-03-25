@@ -90,17 +90,17 @@ const alix = {
 ## 🚀 Featured Projects
 
 <div align="center">
+<a href="https://github.com/hornet3113/bonvoyage-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hornet3113&repo=bonvoyage-frontend&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF" />
+</a>
+<br/><br/>
+Show Image
 
-<a href="https://github.com/hornet3113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hornet3113&repo=TU-REPO-1&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF" />
-</a>
-<a href="https://github.com/hornet3113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hornet3113&repo=TU-REPO-2&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF" />
-</a>
+Collaborative project — check it out on @LuisNafate's profile.
 
 </div>
-
 <br/>
+
 
 ---
 
