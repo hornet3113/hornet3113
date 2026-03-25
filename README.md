@@ -16,7 +16,7 @@
 
 ## 🧬 About Me
 
-<table>
+
 <tr>
 <td valign="top" width="60%">
 
@@ -37,7 +37,7 @@ const alix = {
   <img src="images/8-bit Cat.gif" width="280px" alt="8-bit cat"/>
 </td>
 </tr>
-</table>
+
 
 <br/>
 
