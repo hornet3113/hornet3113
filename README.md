@@ -29,13 +29,16 @@ const alix = {
 };
 ```
  <img src="./images/8-bit Cat.gif" width="80" alt="Mi animación de Lottie"> 
+ <img src="./images/8-bit Cat.gif" width="80" alt="Mi animación de Lottie"> 
+ <img src="./images/8-bit Cat.gif" width="80" alt="Mi animación de Lottie"> 
+ <img src="./images/8-bit Cat.gif" width="80" alt="Mi animación de Lottie"> 
 
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack <img src="./images/CatMovement.gif" width="50" alt="Mi animación de Lottie"> 
 
 <div align="center">
 
