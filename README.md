@@ -15,6 +15,9 @@
 
 ## 🧬 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
 ```typescript
 const alix = {
   role:       "Frontend Developer",
@@ -26,7 +29,12 @@ const alix = {
   motto:      "Code is craft. Design is intention. Together they're magic.",
 };
 ```
-
+</td>
+<td valign="top" width="40%" align="center">
+  <img src="images/8-bit Cat.gif" width="280px" alt="8-bit cat"/>
+</td>
+</tr>
+</table>
 <br/>
 
 ---
