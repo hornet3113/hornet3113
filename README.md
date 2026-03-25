@@ -28,10 +28,12 @@ const alix = {
   motto:      "Code is craft. Design is intention. Together they're magic.",
 };
 ```
- <img src="./images/8-bit Cat.gif" width="80" alt="Mi animación de Lottie"> 
- <img src="./images/8-bit Cat.gif" width="80" alt="Mi animación de Lottie"> 
- <img src="./images/8-bit Cat.gif" width="80" alt="Mi animación de Lottie"> 
- <img src="./images/8-bit Cat.gif" width="80" alt="Mi animación de Lottie"> 
+<div align="center">
+  <img src="./images/8-bit Cat.gif" width="80" alt="cat"/>
+  <img src="./images/8-bit Cat.gif" width="80" alt="cat"/>
+  <img src="./images/8-bit Cat.gif" width="80" alt="cat"/>
+  <img src="./images/8-bit Cat.gif" width="80" alt="cat"/>
+</div>
 
 
 <br/>
